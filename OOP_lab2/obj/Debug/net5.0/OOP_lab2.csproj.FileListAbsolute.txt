@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\OOP_lab2\OOP_lab2\bin\Debug\net5.0\OOP_lab2.exe
+C:\Users\Admin\source\repos\OOP_lab2\OOP_lab2\bin\Debug\net5.0\OOP_lab2.deps.json
+C:\Users\Admin\source\repos\OOP_lab2\OOP_lab2\bin\Debug\net5.0\OOP_lab2.runtimeconfig.json
+C:\Users\Admin\source\repos\OOP_lab2\OOP_lab2\bin\Debug\net5.0\OOP_lab2.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\OOP_lab2\OOP_lab2\bin\Debug\net5.0\OOP_lab2.dll
+C:\Users\Admin\source\repos\OOP_lab2\OOP_lab2\bin\Debug\net5.0\ref\OOP_lab2.dll
+C:\Users\Admin\source\repos\OOP_lab2\OOP_lab2\bin\Debug\net5.0\OOP_lab2.pdb
+C:\Users\Admin\source\repos\OOP_lab2\OOP_lab2\obj\Debug\net5.0\OOP_lab2.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\OOP_lab2\OOP_lab2\obj\Debug\net5.0\OOP_lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\OOP_lab2\OOP_lab2\obj\Debug\net5.0\OOP_lab2.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\OOP_lab2\OOP_lab2\obj\Debug\net5.0\OOP_lab2.AssemblyInfo.cs
+C:\Users\Admin\source\repos\OOP_lab2\OOP_lab2\obj\Debug\net5.0\OOP_lab2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OOP_lab2\OOP_lab2\obj\Debug\net5.0\OOP_lab2.dll
+C:\Users\Admin\source\repos\OOP_lab2\OOP_lab2\obj\Debug\net5.0\ref\OOP_lab2.dll
+C:\Users\Admin\source\repos\OOP_lab2\OOP_lab2\obj\Debug\net5.0\OOP_lab2.pdb
+C:\Users\Admin\source\repos\OOP_lab2\OOP_lab2\obj\Debug\net5.0\OOP_lab2.genruntimeconfig.cache
